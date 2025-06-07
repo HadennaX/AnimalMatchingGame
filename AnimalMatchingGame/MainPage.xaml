@@ -13,8 +13,8 @@
             Text="Play Again?"
             TextColor="RosyBrown"
             FontSize="Large" Clicked="PlayAgainButton_Clicked"
-            BackgroundColor="AntiqueWhite"
-                  />
+            BackgroundColor="White"
+            BorderColor="White"     />
 
             <Label x:Name="TimeElapsed"
             Text="Time Elapsed: 0.0 seconds"
